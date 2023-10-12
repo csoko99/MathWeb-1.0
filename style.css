@@ -1,0 +1,35 @@
+.bevitel
+{
+    width: 100px;
+    background-color : lightgray;
+    color: black;
+}
+#calculate_btn 
+{
+    margin:20px;
+}
+#generate_btn 
+{
+    margin:20px;
+}
+body
+{
+    background-image: url('background_in_space.gif');
+    padding: 20px;
+    text-align: center;
+}
+.table_rc
+{
+    display: inline-block;
+    border: 1px solid black;
+}
+#table_position
+{
+    position: inherit;
+}
+#simplex_area
+{
+    padding: 10px;
+    
+    color: white;
+}
